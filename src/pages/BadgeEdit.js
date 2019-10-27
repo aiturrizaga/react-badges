@@ -6,7 +6,6 @@ import Badge from "../components/Badge";
 import BadgeForm from "../components/BadgeForm";
 import PageLoading from "../components/PageLoading";
 import api from "../api";
-import { async } from "q";
 
 class BadgeEdit extends React.Component {
   state = {
