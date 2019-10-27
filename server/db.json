@@ -448,6 +448,22 @@
       "jobTitle": "Desarrollador Web",
       "twitter": "luis_manrique",
       "id": "E7LhjWb"
+    },
+    {
+      "firstName": "Arturo",
+      "lastName": "Salazar Vicente",
+      "email": "asalazarv@gmail.com",
+      "jobTitle": "Full Stack",
+      "twitter": "asalazar_vicente",
+      "id": "FKE9ytT"
+    },
+    {
+      "firstName": "Paolo",
+      "lastName": "Sanchez Martinez",
+      "email": "paolo.sanchez@gmail.com",
+      "jobTitle": "Database Administrator",
+      "twitter": "paolo_sm",
+      "id": "XYfGx1e"
     }
   ]
 }
